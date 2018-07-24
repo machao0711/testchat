@@ -1,7 +1,7 @@
 Manifest-Version: 1.0
-Implementation-Vendor: Pivotal Software, Inc.
 Implementation-Title: chartroom
 Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: machao
 Implementation-Vendor-Id: com.pzr
 Class-Path: spring-boot-autoconfigure-1.5.1.RELEASE.jar spring-boot-1.
  5.1.RELEASE.jar spring-context-4.3.6.RELEASE.jar spring-boot-starter-
@@ -20,9 +20,9 @@ Class-Path: spring-boot-autoconfigure-1.5.1.RELEASE.jar spring-boot-1.
  ng-websocket-4.3.6.RELEASE.jar spring-boot-devtools-1.5.1.RELEASE.jar
   fastjson-1.2.31.jar slf4j-api-1.7.22.jar spring-core-4.3.6.RELEASE.j
  ar
-Build-Jdk: 1.7.0_45
-Built-By: pzr
-Created-By: Maven Integration for Eclipse
+Build-Jdk: 1.8.0_121
 Implementation-URL: http://projects.spring.io/spring-boot/chartroom/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
 Main-Class: com.pzr.chartroom.Lancher
 
